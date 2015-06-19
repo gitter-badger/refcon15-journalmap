@@ -1,5 +1,7 @@
 # refcon15-journalmap
 
+[![Join the chat at https://gitter.im/rdmpage/refcon15-journalmap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rdmpage/refcon15-journalmap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ideas for a mashup of JournalMap for ReCon 15
 
 @rdmpage Would quite like an @ORCID_Org mash-up with @JournalMap #ReCon_15
